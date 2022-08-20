@@ -8,5 +8,5 @@
 import Foundation
 
 class AppConfigs {
-    static let baseUrl: String = "https://mocki.io"
+    static let baseUrl: String = "https://my-json-server.typicode.com/vantrung8794/ttcTrainingRepo/db"
 }
